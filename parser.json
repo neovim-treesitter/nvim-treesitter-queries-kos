@@ -1,7 +1,7 @@
 {
+  "parser_version": "03b261c1a78b71c38cf4616497f253c4a4ce118b",
+  "location": null,
   "lang": "kos",
   "url": "https://github.com/kos-lang/tree-sitter-kos",
-  "semver": false,
-  "parser_version": "03b261c1a78b71c38cf4616497f253c4a4ce118b",
-  "location": null
+  "semver": false
 }
